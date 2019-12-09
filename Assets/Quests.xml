@@ -1,0 +1,51 @@
+<QuestCollection>
+    <Quests>
+        <QuestData name="soso">
+            <Dialogues>
+                <Dialogue>  Please help me deliver this ASAP!</Dialogue>
+                <Dialogue>  By the way habe you seen an alien</Dialogue>
+            </Dialogues>
+            <AwardBronze>45</AwardBronze>
+            <AwardSilver>30</AwardSilver>
+            <AwardGold>20</AwardGold>
+        </QuestData>
+        <QuestData name="rere">
+            <Dialogues>
+                <Dialogue> Look at the time!!! Please deliver this now!</Dialogue>
+                <Dialogue> P.S don't look at what's inside... smiley face!</Dialogue>
+            </Dialogues>
+            <AwardBronze>35</AwardBronze>
+            <AwardSilver>25</AwardSilver>
+            <AwardGold>15</AwardGold>
+        </QuestData>
+        <QuestData name="carcar">
+            <Dialogues>
+                <Dialogue>I need to get these frog eggs delivered as soon as possible.</Dialogue>
+                <Dialogue>Thank you.</Dialogue>
+            </Dialogues>
+            <AwardBronze>40</AwardBronze>
+            <AwardSilver>30</AwardSilver>
+            <AwardGold>20</AwardGold>
+        </QuestData>
+        <QuestData name="walwal">
+            <Dialogues>
+                <Dialogue>Didn't I ask for express delivery?</Dialogue>
+                <Dialogue>Do you understand your own company policies? Have you even read it?</Dialogue>
+                <Dialogue>Have or not?</Dialogue>
+            </Dialogues>
+            <AwardBronze>40</AwardBronze>
+            <AwardSilver>35</AwardSilver>
+            <AwardGold>20</AwardGold>
+        </QuestData>
+        <QuestData name="clacla">
+            <Dialogues>
+                <Dialogue> My company needs this new processor now, I trust that you can make it on time.</Dialogue>
+                <Dialogue> The real question is</Dialogue>
+                <Dialogue> Who are we making this changes for?</Dialogue>
+            </Dialogues>
+            <AwardBronze>80</AwardBronze>
+            <AwardSilver>70</AwardSilver>
+            <AwardGold>50</AwardGold>
+        </QuestData>
+    </Quests>
+</QuestCollection>

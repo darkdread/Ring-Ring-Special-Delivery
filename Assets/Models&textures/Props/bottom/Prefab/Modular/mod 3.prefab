@@ -1,0 +1,4349 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &23498610715776111
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5960132546660230261}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5960132546660230261
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 23498610715776111}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6461944442438537455}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &154194242654668952
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8538094948435461017}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8538094948435461017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 154194242654668952}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7926140785315518965}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1050618803327381981
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6661196692964770247}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6661196692964770247
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1050618803327381981}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6298996404960015709}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1247047444063351661
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8113390017978437597}
+  m_Layer: 0
+  m_Name: Valve mod (62)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8113390017978437597
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1247047444063351661}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 70064045312538962}
+  - {fileID: 7263204354499991738}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1680607419808505692
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6574311224278078629}
+  m_Layer: 0
+  m_Name: mod 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6574311224278078629
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1680607419808505692}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.533001, y: -32.118004, z: -44.9}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8113390017978437597}
+  - {fileID: 6839332461553943049}
+  - {fileID: 966479563374669895}
+  - {fileID: 8337105242743880946}
+  - {fileID: 2134469623856820090}
+  - {fileID: 4976371054694844401}
+  - {fileID: 3566322712318924457}
+  - {fileID: 8135418460778566816}
+  - {fileID: 7688674673978954711}
+  - {fileID: 3738736119976004990}
+  - {fileID: 6300363705291529091}
+  - {fileID: 7238514961923683941}
+  - {fileID: 8917825773587893847}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1824954240572373834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5455641542073518928}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5455641542073518928
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1824954240572373834}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4660523924467924938}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1875217910197097240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5252256977488126722}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5252256977488126722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1875217910197097240}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4897690048419960728}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1879286914121331431
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8917825773587893847}
+  m_Layer: 0
+  m_Name: Valve mod (68)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8917825773587893847
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1879286914121331431}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 6.7100067, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 838263911318354136}
+  - {fileID: 8040864418558597424}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1970681064717038732
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 25408281490413324}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &25408281490413324
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1970681064717038732}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7237772450139057342}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2655282290122636097
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4976371054694844401}
+  m_Layer: 0
+  m_Name: Valve mod (65)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4976371054694844401
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2655282290122636097}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 4.850006, z: 1.2130051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3850569741688123774}
+  - {fileID: 5862287893268762774}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2775774782739234008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4433388368792018776}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4433388368792018776
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2775774782739234008}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6461944442776528106}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2901021391453804906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3693366055305165546}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3693366055305165546
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2901021391453804906}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6298996404584989016}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3197079345815939740
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6341323908733657501}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6341323908733657501
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3197079345815939740}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4864678617150979057}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3369529886151684427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6529198368189069898}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6529198368189069898
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3369529886151684427}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4692320079306694694}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4364593142029363369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 966479563374669895}
+  m_Layer: 0
+  m_Name: Industrial Pipes Mod (76)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &966479563374669895
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4364593142029363369}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -2.25, y: 0.020004272, z: 1.7400055}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4501199188277018045}
+  - {fileID: 4501199188395083642}
+  - {fileID: 4501199188004582271}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &4382265671153286063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2869892641042995247}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2869892641042995247
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4382265671153286063}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4897690048684843933}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4435958038608305211
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8028351816465509409}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8028351816465509409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4435958038608305211}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7237772450287540411}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4556757252836622009
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6839332461553943049}
+  m_Layer: 0
+  m_Name: Valve mod (63)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6839332461553943049
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4556757252836622009}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -12.479995, y: 0.040000916, z: 0.056999207}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3353589079564874886}
+  - {fileID: 5385927471813907822}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
+--- !u!1 &4577198322739958781
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2631930471209447549}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2631930471209447549
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4577198322739958781}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4660523924294224847}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4691987341681069134
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8135418460778566816}
+  m_Layer: 0
+  m_Name: Industrial Pipes Mod (78)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8135418460778566816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4691987341681069134}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -2.25, y: 6.7300034, z: 1.7400055}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4897690048700651866}
+  - {fileID: 4897690048684843933}
+  - {fileID: 4897690048419960728}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &4708186492767823339
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3821427897855241962}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3821427897855241962
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4708186492767823339}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3353589079564874886}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4710625154235457352
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6511228491254709448}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6511228491254709448
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4710625154235457352}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4501199188395083642}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4776312972711601180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8337105242743880946}
+  m_Layer: 0
+  m_Name: Industrial Pipes Mod (77)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8337105242743880946
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4776312972711601180}
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -7.797413, y: -1.1899948, z: 1.7399979}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4660523924211347720}
+  - {fileID: 4660523924294224847}
+  - {fileID: 4660523924467924938}
+  - {fileID: 3682077531139632313}
+  - {fileID: 3955289332550502361}
+  - {fileID: 1389901565008909007}
+  - {fileID: 8359291193204510570}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!1 &5812165436570544665
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3566322712318924457}
+  m_Layer: 0
+  m_Name: Valve mod (66)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3566322712318924457
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5812165436570544665}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -12.479995, y: 4.8899994, z: 1.2700043}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4692320079306694694}
+  - {fileID: 2678101638830981582}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
+--- !u!1 &5923432554478563790
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3738736119976004990}
+  m_Layer: 0
+  m_Name: Valve mod (67)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3738736119976004990
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5923432554478563790}
+  m_LocalRotation: {x: 0.7071068, y: 0.7071068, z: -0, w: 0}
+  m_LocalPosition: {x: -11.470001, y: 2.350006, z: 2.2600021}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4864678617150979057}
+  - {fileID: 2861527860178541081}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 180, y: 0, z: -90}
+--- !u!1 &6165385412452069003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7238514961923683941}
+  m_Layer: 0
+  m_Name: Industrial Pipes Mod (81)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7238514961923683941
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6165385412452069003}
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -3.0900002, y: 7.7000046, z: 1.7399979}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6298996404703968159}
+  - {fileID: 6298996404584989016}
+  - {fileID: 6298996404960015709}
+  - {fileID: 2656657637701215790}
+  - {fileID: 2387757430463565134}
+  - {fileID: 328457184551213144}
+  - {fileID: 7189201889580647933}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!1 &6535700607218491411
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3381605004170898194}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3381605004170898194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6535700607218491411}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3850569741688123774}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6577558646842313529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7688674673978954711}
+  m_Layer: 0
+  m_Name: Industrial Pipes Mod (79)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7688674673978954711
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6577558646842313529}
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -11.467415, y: -7.8600006, z: 4.0200043}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6461944442694065709}
+  - {fileID: 6461944442776528106}
+  - {fileID: 6461944442438537455}
+  - {fileID: 3033649249469531036}
+  - {fileID: 3451150790705932540}
+  - {fileID: 741156535406231018}
+  - {fileID: 7855081389279207503}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!1 &7241398159690754485
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1161994145579066036}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1161994145579066036
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7241398159690754485}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 838263911318354136}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7391784902539166573
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6300363705291529091}
+  m_Layer: 0
+  m_Name: Industrial Pipes Mod (80)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6300363705291529091
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391784902539166573}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -2.25, y: 4.8700027, z: 2.953003}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7237772450022446713}
+  - {fileID: 7237772450139057342}
+  - {fileID: 7237772450287540411}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &7460620939017598975
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3849640978973231077}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3849640978973231077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7460620939017598975}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4501199188004582271}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8008643911604070463
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1980121425785873214}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1980121425785873214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8008643911604070463}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 70064045312538962}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8955903633164243914
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2134469623856820090}
+  m_Layer: 0
+  m_Name: Valve mod (64)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2134469623856820090
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955903633164243914}
+  m_LocalRotation: {x: 0.7071068, y: 0.7071068, z: -0, w: 0}
+  m_LocalPosition: {x: -7.799999, y: 9.020004, z: -0.019996643}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7926140785315518965}
+  - {fileID: 705851334902691869}
+  m_Father: {fileID: 6574311224278078629}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 180, y: 0, z: -90}
+--- !u!1001 &199737834932877243
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7688674673978954711}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &6461944442694065709 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 199737834932877243}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &199737834951069052
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7688674673978954711}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.9400024
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &6461944442776528106 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 199737834951069052}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &199737835206228345
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7688674673978954711}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.8500023
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &6461944442438537455 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 199737835206228345}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &394561480864787181
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3738736119976004990}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.23991302
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.037002563
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.25408155
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00012344122
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0001233816
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &4864678617150979057 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 394561480864787181}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &568989288914858298
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3566322712318924457}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.23991302
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.037002563
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.25408155
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00012344122
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0001233816
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &4692320079306694694 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 568989288914858298}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &700582633174526648
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6839332461553943049}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &5385927471813907822 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 700582633174526648}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &865372139097513163
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7238514961923683941}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.8500023
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &6298996404960015709 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 865372139097513163}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &865372139320486094
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7238514961923683941}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.9400024
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &6298996404584989016 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 865372139320486094}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &865372139369288201
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7238514961923683941}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &6298996404703968159 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 865372139369288201}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1323310115667521344
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4976371054694844401}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &5862287893268762774 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1323310115667521344}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1770191305312602635
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8135418460778566816}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.9400024
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &4897690048684843933 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 1770191305312602635}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1770191305397465292
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8135418460778566816}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &4897690048700651866 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 1770191305397465292}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1770191305662430734
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8135418460778566816}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.8500023
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &4897690048419960728 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 1770191305662430734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2001125913272079964
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8337105242743880946}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.8500023
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &4660523924467924938 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 2001125913272079964}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2001125913544382622
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8337105242743880946}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &4660523924211347720 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 2001125913544382622}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2001125913562161753
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8337105242743880946}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.9400024
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &4660523924294224847 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 2001125913562161753}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2360868385552939563
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7238514961923683941}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.047000885
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6599998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.4399986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &7189201889580647933 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 2360868385552939563}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2867180727950796652
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8113390017978437597}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &7263204354499991738 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 2867180727950796652}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3099677153037388009
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2134469623856820090}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.23991302
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.037002563
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.25408155
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00012344122
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0001233816
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &7926140785315518965 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 3099677153037388009}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3211264277261575910
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8917825773587893847}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &8040864418558597424 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 3211264277261575910}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3315927685524643737
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7688674673978954711}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.047000885
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6599998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.4399986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &7855081389279207503 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 3315927685524643737}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3964429101905817788
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8337105242743880946}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.047000885
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6599998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.4399986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &8359291193204510570 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 3964429101905817788}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4546760996215632173
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6300363705291529091}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.8500023
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &7237772450287540411 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 4546760996215632173}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4546760996496457711
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6300363705291529091}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &7237772450022446713 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 4546760996496457711}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4546760996547609896
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6300363705291529091}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.9400024
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &7237772450139057342 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 4546760996547609896}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4788987695707588932
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7238514961923683941}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0099983215
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.406002
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.6800003
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000006181724
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 2.7021175e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &328457184551213144 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 4788987695707588932}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5045129027617482830
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8113390017978437597}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.23991302
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.037002563
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.25408155
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00012344122
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0001233816
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &70064045312538962 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 5045129027617482830}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5390210903713810379
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2134469623856820090}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &705851334902691869 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 5390210903713810379}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5526498449842728182
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7688674673978954711}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0099983215
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.406002
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.6800003
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000006181724
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 2.7021175e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &741156535406231018 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 5526498449842728182}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5573504053036411332
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8917825773587893847}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.23991302
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.037002563
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.25408155
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00012344122
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0001233816
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &838263911318354136 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 5573504053036411332}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6175245317162271699
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8337105242743880946}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0099983215
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.406002
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.6800003
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000006181724
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 2.7021175e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &1389901565008909007 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 6175245317162271699}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7072152204660307762
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7238514961923683941}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0099983215
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.406002
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.6800003
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000006181724
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 2.7021175e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &2656657637701215790 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 7072152204660307762}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7072152205020902040
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7238514961923683941}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.047000885
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6599998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.4399986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &2387757430463565134 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7072152205020902040}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7255404703159412175
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3738736119976004990}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &2861527860178541081 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7255404703159412175}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7286705910648460331
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 966479563374669895}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &4501199188277018045 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 7286705910648460331}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7286705910698159852
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 966479563374669895}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.9400024
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &4501199188395083642 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 7286705910698159852}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7286705910905166569
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 966479563374669895}
+    m_Modifications:
+    - target: {fileID: 7868832413401553797, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe 1 Unit (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.8500023
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87a58380dd518fb4cbec98238345a659, type: 3}
+--- !u!4 &4501199188004582271 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6586774744852851094, guid: 87a58380dd518fb4cbec98238345a659,
+    type: 3}
+  m_PrefabInstance: {fileID: 7286705910905166569}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7362495949525564952
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3566322712318924457}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &2678101638830981582 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7362495949525564952}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7525897065802524058
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6839332461553943049}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.23991302
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.037002563
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.25408155
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00012344122
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0001233816
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &3353589079564874886 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 7525897065802524058}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7846012812672668288
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7688674673978954711}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0099983215
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.406002
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.6800003
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000006181724
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 2.7021175e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &3033649249469531036 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 7846012812672668288}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7846012813419304746
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7688674673978954711}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.047000885
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6599998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.4399986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &3451150790705932540 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7846012813419304746}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8328550138468868194
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4976371054694844401}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.23991302
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.037002563
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.25408155
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00012344122
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0001233816
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &3850569741688123774 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 8328550138468868194}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8494443104932330917
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8337105242743880946}
+    m_Modifications:
+    - target: {fileID: 8115580154426778383, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Valve
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0099983215
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.406002
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.6800003
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000006181724
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 2.7021175e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62d1d728eee2aa4c98cacd061f9d813, type: 3}
+--- !u!4 &3682077531139632313 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5114696087227568412, guid: a62d1d728eee2aa4c98cacd061f9d813,
+    type: 3}
+  m_PrefabInstance: {fileID: 8494443104932330917}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8494443105158707215
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8337105242743880946}
+    m_Modifications:
+    - target: {fileID: 8456926216912784837, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_Name
+      value: Industrial Pipe Modular
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.047000885
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6599998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.4399986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 074ce2e489691854aa07667b79dd5ceb, type: 3}
+--- !u!4 &3955289332550502361 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4829635948575768534, guid: 074ce2e489691854aa07667b79dd5ceb,
+    type: 3}
+  m_PrefabInstance: {fileID: 8494443105158707215}
+  m_PrefabAsset: {fileID: 0}

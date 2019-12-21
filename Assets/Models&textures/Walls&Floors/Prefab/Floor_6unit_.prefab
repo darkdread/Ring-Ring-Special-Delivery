@@ -12,7 +12,8 @@ GameObject:
   - component: {fileID: 7351006678308359942}
   - component: {fileID: 3834969886863651839}
   - component: {fileID: 7631524894607913953}
-  m_Layer: 0
+  - component: {fileID: 2339854377563140162}
+  m_Layer: 10
   m_Name: Floor_6unit_
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98,3 +99,16 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2339854377563140162
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3243817444829153059}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 8.000002, y: 12, z: 0}
+  m_Center: {x: 0.0000076293945, y: 0, z: -0.000056743633}

@@ -20,12 +20,12 @@ public class CameraPan : MonoBehaviour {
 	}
 	// Update is called once per frame
 	void Update() {
-		FollowPlayer();
+		//FollowPlayer();
 		if (posToMove != null && canPan) PanCamera();
 	}
 
 	void CalculateOffest() {
-		offset = new Vector3(transform.position.x - playerPos.position.x, transform.position.y - playerPos.position.y, transform.position.z - playerPos.position.z);
+		offset = new Vector3(0, transform.position.y - playerPos.position.y, 0);
 	}
 	public void FollowPlayer() {
 		transform.position = Vector3.Lerp(transform.position, playerPos.position + offset, Time.deltaTime * 3);

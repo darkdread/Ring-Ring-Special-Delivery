@@ -8,6 +8,7 @@ public class PanTrigger : MonoBehaviour {
 	void OnTriggerEnter(Collider other) {
 		if (other.tag == "Player") {
 			CameraPan.instance.posToMove = newCamPos;
+			CameraPan.instance.canPan = true;
 			CameraPan.instance.PanCamera();
 		}
 	}

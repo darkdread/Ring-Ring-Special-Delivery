@@ -30,7 +30,6 @@ public class CameraCollider : MonoBehaviour
 
         if(ThirdPersonCamera.camDistance <= initialCamDistance && !isColliding && !atOrigin)
             {
-                
                 print("NOT PLAYER");
                 ThirdPersonCamera.camDistance += Time.deltaTime * zoomSpeed;
                 isColliding = false;

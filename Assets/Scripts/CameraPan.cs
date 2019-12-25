@@ -9,35 +9,52 @@ public class CameraPan : MonoBehaviour {
 	public Transform posToMove;
 	public bool canPan;
 
-	Vector3 offset;
+	private PanTrigger currentPanTrigger;
+
 	// Start is called before the first frame update
 	void Awake() {
 		instance = this;
 		canPan = false;
 	}
-	private void Start() {
-		CalculateOffest();
-	}
+
 	// Update is called once per frame
 	void Update() {
-		//FollowPlayer();
-		if (posToMove != null && canPan) PanCamera();
+		if (posToMove == null){
+			return;
+		}
+
+		FollowPlayer();
+		if (canPan) {
+			PanCamera();
+		}
 	}
 
-	void CalculateOffest() {
-		offset = new Vector3(0, transform.position.y - playerPos.position.y, 0);
+	public void StartPan(PanTrigger pt, Transform panPosition) {
+		print("StartPan");
+		currentPanTrigger = pt;
+		posToMove = panPosition;
+		canPan = true;
 	}
+
+	public Vector3 CalculateOffset() {
+		Vector3 offset = new Vector3(playerPos.position.x - posToMove.position.x, playerPos.position.y - posToMove.position.y, playerPos.position.z - posToMove.position.z);
+		offset.x = Mathf.Clamp(offset.x / currentPanTrigger.dividendXyz.x, currentPanTrigger.minXyz.x, currentPanTrigger.maxXyz.x);
+		offset.z = Mathf.Clamp(offset.z / currentPanTrigger.dividendXyz.z, currentPanTrigger.minXyz.z, currentPanTrigger.maxXyz.z);
+		offset.y = Mathf.Clamp(offset.y / currentPanTrigger.dividendXyz.y, currentPanTrigger.minXyz.y, currentPanTrigger.maxXyz.y);
+		return offset;
+	}
+
 	public void FollowPlayer() {
-		transform.position = Vector3.Lerp(transform.position, playerPos.position + offset, Time.deltaTime * 3);
+		Vector3 offset = CalculateOffset();
+		transform.position = Vector3.Lerp(transform.position, posToMove.position + offset, Time.deltaTime * 3);
 		print("FollowPlayer");
 	}
 	public void PanCamera() {
-		while (transform.position != posToMove.position) {
-			transform.position = Vector3.Lerp(transform.position, posToMove.position, Time.deltaTime * 3);
+		if (Vector3.Distance(transform.position, posToMove.position) > 0.2f) {
 			transform.rotation = Quaternion.Lerp(transform.rotation, posToMove.rotation, Time.deltaTime * 3);
 			print("Panning");
-			CalculateOffest();
-			return;
-		} 
+		}else if(Vector3.Distance(transform.position, posToMove.position) <= 0.2f){
+			canPan = false;
+		}
 	}
 }

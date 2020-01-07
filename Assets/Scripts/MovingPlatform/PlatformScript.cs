@@ -4,160 +4,40 @@ using UnityEngine;
 
 
 // this is for the designer to play around with the differnt kinds of platforms
-public enum platformType { Sideways, Vertical, Diagonal }
+public enum platformType { Sideways, Vertical, Diagonal, FowardBack }
 
 public class PlatformScript : MonoBehaviour {
 
-	public platformType currentPlatformType;
+	public Transform targetPos, originalPos;
+	public Vector3 platformDist;
+	public bool moveToTarget;
+	public float speed;
 
-	[Header("DiagonalMovementValues")]
-
-	[Range(1, 20)]
-	public float platformSpd = 5.0f;
-	[Range(1, 20)]
-	public float platformDistX = 5.0f;
-	[Range(1, 20)]
-	public float platformDistZ = 5.0f;
-	[Range(1, 20)]
-	public float platformDelay = 3.0f;
-	private bool platformPaused;
-	private bool platformReturn;
-	private float platformTimer;
-	private float platformLimitX;
-	private float platformLimitZ;
-
-	[Header("HorizontalMovement")]
-	public float platformDist = 5.0f;
-	private float platformLimit;
-
-
-	// Start is called before the first frame update
 	void Start() {
-		platformLimitX = transform.position.x + platformDistX;
-		platformLimitZ = transform.position.z + platformDistZ;
-		platformLimit = transform.position.x + platformDist;
-		if (currentPlatformType == platformType.Vertical) platformLimit = transform.position.y + platformDist;
+		targetPos.position = transform.position + platformDist;
+		originalPos.position = transform.position;
+		targetPos.parent = null;
+		originalPos.parent = null;
 	}
 
-	// Update is called once per frame
 	void Update() {
-		if (currentPlatformType == platformType.Sideways) {
-			HorizontalMovement();
-		} else if (currentPlatformType == platformType.Diagonal) {
-			DiagonalMovement();
-		} else if (currentPlatformType == platformType.Vertical) {
-			VerticalMovement();
-		}
+		setTarget();
+		HorizontalMovement();
 	}
 
-
-	void DiagonalMovement() {
-
-		platformTimer += Time.deltaTime;
-
-		//if platform has not reached X and Z destinations and is not returning while delay is over
-		if (!platformReturn && platformTimer >= platformDelay) {
-			if (transform.position.x < platformLimitX) {
-				transform.position = new Vector3(transform.position.x + Time.deltaTime * platformSpd, transform.position.y, transform.position.z);
-			}
-
-			if (transform.position.z < platformLimitZ) {
-				transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + Time.deltaTime * platformSpd);
-			}
-
-			//transform.position = new Vector3(transform.position.x + Time.deltaTime * platformSpd, transform.position.y, transform.position.z + Time.deltaTime * platformSpd);
-		}
-		//if platform has reached its destination 
-		if (transform.position.x >= platformLimitX && transform.position.z >= platformLimitZ && !platformPaused) {
-			platformPaused = true;
-			platformTimer = 0;
-		} else if (platformReturn) {
-			platformPaused = false;
-			//transform.position = new Vector3(transform.position.x - Time.deltaTime * platformSpd, transform.position.y, transform.position.z - Time.deltaTime * platformSpd);
-
-			if (transform.position.x > platformLimitX - platformDistX) {
-				transform.position = new Vector3(transform.position.x - Time.deltaTime * platformSpd, transform.position.y, transform.position.z);
-			}
-
-			if (transform.position.z > platformLimitZ - platformDistZ) {
-				transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z - Time.deltaTime * platformSpd);
-			}
-
-			//if platform has reached its initial position
-			if (transform.position.x <= platformLimitX - platformDistX && transform.position.z <= platformLimitZ - platformDistZ) {
-				platformReturn = false;
-				platformTimer = 0;
-			}
-		}
-		if (platformPaused) {
-			if (platformTimer >= platformDelay) {
-				platformReturn = true;
-			}
-		}
+	void setTarget() {
+		float distToTarget = Vector3.Distance(targetPos.position, transform.position);
+		float distToOriginaPos = Vector3.Distance(originalPos.position, transform.position);
+		if (distToTarget < 0.1f) moveToTarget = false;
+		else if (distToOriginaPos < 0.1f) moveToTarget = true;
 	}
 
 	void HorizontalMovement() {
-		platformTimer += Time.deltaTime;
-
-		//Position values clamped
-		transform.position = new Vector3(Mathf.Clamp(transform.position.x, platformLimit - platformDist, platformLimit), transform.position.y, transform.position.z);
-
-		//if platform has not reached destination and not returning and delay is over
-		if (transform.position.x < platformLimit && !platformReturn && platformTimer >= platformDelay) {
-			transform.position = new Vector3(transform.position.x + Time.deltaTime * platformSpd, transform.position.y, transform.position.z);
-		} else if (platformReturn) {
-			platformPaused = false;
-			transform.position = new Vector3(transform.position.x - Time.deltaTime * platformSpd, transform.position.y, transform.position.z);
-
-			//if platform has reached its initial position
-			if (transform.position.x <= platformLimit - platformDist) {
-				platformReturn = false;
-				platformTimer = 0;
-			}
-		}
-		  //if platform has reached its destination 
-		  else if (transform.position.x >= platformLimit && !platformPaused) {
-			platformPaused = true;
-			platformTimer = 0;
-		}
-
-		if (platformPaused) {
-			if (platformTimer >= platformDelay) {
-				platformReturn = true;
-			}
-		}
-	}
-	void VerticalMovement() {
-		platformTimer += Time.deltaTime;
-
-		//Position values clamped
-		transform.position = new Vector3(transform.position.x, Mathf.Clamp(transform.position.y, platformLimit - platformDist, platformLimit), transform.position.z);
-
-		//if platform has not reached destination and not returning and delay is over
-		if (transform.position.y < platformLimit && !platformReturn && platformTimer >= platformDelay) {
-			transform.position = new Vector3(transform.position.x, transform.position.y + Time.deltaTime * platformSpd, transform.position.z);
-		} else if (platformReturn) {
-			platformPaused = false;
-			transform.position = new Vector3(transform.position.x, transform.position.y - Time.deltaTime * platformSpd, transform.position.z);
-
-			//if platform has reached its initial position
-			if (transform.position.y <= platformLimit - platformDist) {
-				platformReturn = false;
-				platformTimer = 0;
-			}
-		}
-		  //if platform has reached its destination 
-		  else if (transform.position.y >= platformLimit && !platformPaused) {
-			platformPaused = true;
-			platformTimer = 0;
-		}
-
-		if (platformPaused) {
-			if (platformTimer >= platformDelay) {
-				platformReturn = true;
-			}
+		if (moveToTarget) {
+			transform.position = Vector3.MoveTowards(transform.position, targetPos.position, speed * Time.deltaTime);
+		} else {
+			transform.position = Vector3.MoveTowards(transform.position, originalPos.position, speed * Time.deltaTime);
 		}
 	}
 }
-
 
